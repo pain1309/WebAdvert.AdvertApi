@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>VAPack.AdvertApi.Models</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>VA V.</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+  </PropertyGroup>
+
+</Project>
